@@ -38761,7 +38761,7 @@ l=A.b([],m)
 for(k=e*0.035,j=d*0.01,i=0;i<2;++i)l.push(new A.o6(B.eD[i],B.eG[i],k,j,h))
 return A.at(h,A.eU(B.aC,A.b([r,A.at(h,A.ci(A.b([s,q,p,n,o,A.bf(l,B.r,B.p,B.W)],m),B.ak,B.p,B.v),B.k,h,h,h,h,h,new A.ar(d*0.1,f,0,0),h,h,h,h)],m),B.az,h,h),B.k,h,h,h,h,e,h,h,h,h,d)}}
 A.nb.prototype={
-am(){return new A.Ba(A.ah5(),A.r1(0),A.b(["HOME","ABOUT","SERVICES","PROJECTS","TIMELINE","CONTACT"],t.i),A.b([B.BG,B.BI,B.BM,B.BF,B.BE,B.BJ],t.bY),B.m)}}
+am(){return new A.Ba(A.ah5(),A.r1(0),A.b(["HOME","ABOUT","SERVICES","PROJECTS","CONTACT"],t.i),A.b([B.BG,B.BI,B.BM,B.BF,B.BE,B.BJ],t.bY),B.m)}}
 A.Ba.prototype={
 xS(a){var s,r,q=this,p=q.r
 if(a===0)s=0
@@ -38804,7 +38804,7 @@ j=new A.fO(new A.nn(20,l),A.aH(0,0,3),j,new A.k(0,-10),l)}else{s=A.aH(0,250,0)
 r=A.aH(0,100,0)
 s=new A.fO(new A.nn(m.c.F(j).f.a.b*0.035,l),r,s,new A.k(0,-10),l)
 j=s}s=A.b([],t.t)
-for(r=m.x,q=m.y,p=0;p<6;++p)s.push(m.E0(r[p],p,q[p],a))
+for(r=m.x,q=m.y,p=0;p<5;++p)s.push(m.E0(r[p],p,q[p],a))
 r=A.aH(0,100,0)
 q=A.aH(0,250,0)
 o=A.aq(150,76,175,80)
@@ -38818,7 +38818,7 @@ s.push(new A.fO(A.at(l,A.nd(A.bA("Cover Letter",l,l,l,A.b2(a.c?B.j:B.i,l,B.aW,l,
 return A.afO(s,k,0,l,j)},
 VQ(a){var s,r,q,p,o=null,n=a.c?B.i:B.C.h(0,900),m=A.mr(new A.nn(28,o),o,o)
 m=A.b([m,A.ZM(o,A.bA("",o,o,o,A.ee(o,o,a.c?B.j:B.i,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o))],t.t)
-for(s=this.x,r=this.y,q=0;q<6;++q)m.push(this.E0(s[q],q,r[q],a))
+for(s=this.x,r=this.y,q=0;q<5;++q)m.push(this.E0(s[q],q,r[q],a))
 m.push(A.akh(a.c?B.C.h(0,200):B.i))
 s=A.aq(150,76,175,80)
 r=A.mh(5)
